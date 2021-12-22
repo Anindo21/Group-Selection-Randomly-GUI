@@ -1,0 +1,12 @@
+team A
+team B
+team C
+team D
+team E
+team F
+team G
+team H
+team I
+team J
+team K
+team L
